@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository the code the support for the paper created on **AMPLAB - (Ethno) Musicology Subject**
+This repository is the code support for the paper created on **AMPLAB - (Ethno) Musicology Subject**
 
 ## Installation
 
